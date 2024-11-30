@@ -1,0 +1,34 @@
+{
+    "Posts": [
+        {
+          "id": 1,
+          "name": "Aarav Kumar",
+          "title":"Java full stack developer",
+          "description":"hello i have knowledge in java full stack development"
+        },
+        {
+          "id": 2,
+          "name": "Ishita Patel",
+          "title":"Java full stack developer",
+          "description":"hello i have knowledge in java full stack development"
+        },
+        {
+          "id": 3,
+          "name": "Rohan Sharma",
+           "title":"Java full stack developer",
+          "description":"hello i have knowledge in java full stack development"
+        },
+        {
+          "id": 4,
+          "name": "Sneha Das",
+           "title":"Java full stack developer",
+          "description":"hello i have knowledge in java full stack development"
+        },
+        {
+          "id": 5,
+          "name": "Vikram Singh",
+           "title":"Java full stack developer",
+          "description":"hello i have knowledge in java full stack development"
+        }
+      ]    
+}
